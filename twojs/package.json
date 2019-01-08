@@ -1,0 +1,12 @@
+{
+  "name": "twojs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "two.js": "^0.7.0-beta.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}

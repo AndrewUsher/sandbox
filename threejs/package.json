@@ -1,0 +1,13 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "three": "^0.100.0",
+    "three-orbit-controls": "^82.1.0"
+  }
+}
