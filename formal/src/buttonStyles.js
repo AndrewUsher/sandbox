@@ -10,17 +10,19 @@ const buttonStyles = css`
     margin-right: 4%;
     padding: 8px 16px;
     transition: background-color 400ms, color 200ms;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     width: 48%;
-  }
 
-  button:disabled {
-    background-color: #f2f2f2;
-    color: #000;
-    opacity: 0.5;
-  }
+    &:disabled {
+      background-color: #f2f2f2;
 
-  button:last-child {
-    margin-right: 0;
+      color: #000;
+      opacity: 0.5;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
   }
 `
 
