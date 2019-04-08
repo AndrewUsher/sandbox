@@ -1,0 +1,23 @@
+{
+  "name": "formal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "@kevinwolf/formal-web": "^0.1.0",
+    "formal": "^0.3.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  }
+}
