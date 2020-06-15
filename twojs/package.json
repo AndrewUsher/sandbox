@@ -7,6 +7,6 @@
     "two.js": "^0.7.0-beta.3"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": "1.11.0"
   }
 }
