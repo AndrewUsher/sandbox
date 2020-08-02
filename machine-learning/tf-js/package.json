@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs": "^0.14.1",
-    "@tensorflow/tfjs-node": "^0.3.0"
+    "@tensorflow/tfjs-node": "^2.0.0"
   }
 }
