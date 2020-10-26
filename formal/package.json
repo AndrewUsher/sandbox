@@ -12,8 +12,8 @@
   "dependencies": {
     "@kevinwolf/formal-web": "^0.1.0",
     "formal": "^0.3.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "styled-components": "^4.2.0",
     "yup": "^0.32.0"
   },
