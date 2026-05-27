@@ -5467,10 +5467,10 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
 
-two.js@^0.8.0:
-  version "0.8.3"
-  resolved "https://registry.yarnpkg.com/two.js/-/two.js-0.8.3.tgz#3c9574a6804e3fb07fea1c063629705b78e76cd4"
-  integrity sha512-BPUzvtpT3lGWlLlbu/KZ74B8RoqBCYxt1mFv1I0Tsuv20GiioiCxZG3/mQ82/81ArrQpYynZ4wyjKQgVmzVDdw==
+two.js@^0.8.23:
+  version "0.8.23"
+  resolved "https://registry.yarnpkg.com/two.js/-/two.js-0.8.23.tgz#54cd8e9a1fc308a6448b81b22bf06b4aba064c87"
+  integrity sha512-Yp3m4XHKI1VO7nlckRb6aVio0qjuy4hBEli8IDQst/hqL7Tg6lhKnqXQLo+27Z11FmxAykwyoPu1IpSVFmAnJQ==
 
 type-check@~0.3.2:
   version "0.3.2"
