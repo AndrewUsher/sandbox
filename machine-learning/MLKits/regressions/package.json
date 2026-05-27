@@ -8,7 +8,7 @@
   "license": "ISC",
   "dependencies": {
     "@tensorflow/tfjs-node": "^0.3.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.18.1",
     "memoize": "^0.1.1",
     "mnist-data": "^1.2.6",
     "node-remote-plot": "^1.2.0",
