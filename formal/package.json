@@ -14,7 +14,7 @@
     "formal": "^0.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "styled-components": "^5.0.0",
+    "styled-components": "^5.3.11",
     "yup": "^0.32.0"
   },
   "scripts": {
