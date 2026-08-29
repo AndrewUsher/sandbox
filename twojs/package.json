@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "two.js": "^0.8.23"
+    "two.js": "^0.8.24"
   },
   "devDependencies": {
     "parcel-bundler": "1.12.5"
